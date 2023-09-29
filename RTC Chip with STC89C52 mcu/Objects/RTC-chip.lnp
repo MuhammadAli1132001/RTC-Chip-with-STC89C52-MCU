@@ -1,0 +1,4 @@
+".\Objects\lcd.obj",
+".\Objects\main.obj" 
+TO ".\Objects\RTC-chip" 
+PRINT(".\Listings\RTC-chip.m51") RAMSIZE(256) 
